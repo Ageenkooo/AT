@@ -57,7 +57,7 @@ public class Student
 		return rating;
 	}
 }
-
+//changes for git 
 public class Counter{
 	public static float AverageGroupRating(Student [] st){
 		float rating = 0;
