@@ -4,3 +4,4 @@ D:\webservices\ComicsStoreBack\ComicsStoreBack\bin\ComicsStoreBack.pdb
 D:\webservices\ComicsStoreBack\ComicsStoreBack\obj\Debug\ComicsStoreBack.csproj.CoreCompileInputs.cache
 D:\webservices\ComicsStoreBack\ComicsStoreBack\obj\Debug\ComicsStoreBack.dll
 D:\webservices\ComicsStoreBack\ComicsStoreBack\obj\Debug\ComicsStoreBack.pdb
+D:\webservices\ComicsStoreBack\ComicsStoreBack\obj\Debug\ComicsStoreBack.csprojAssemblyReference.cache

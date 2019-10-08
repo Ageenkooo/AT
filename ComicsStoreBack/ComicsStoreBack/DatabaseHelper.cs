@@ -86,8 +86,8 @@ namespace ComicsStoreBack
                             Id = reader.GetInt32(0),
                             Name = reader.GetString(1),
                             Description = reader.GetString(2),
-                            Year = reader.GetInt32(3),
-                            Price = reader.GetInt32(4),
+                            Year = reader.GetFloat(3),
+                            Price = reader.GetFloat(4),
                             Publisher = reader.GetString(5)
                         });
                     }
@@ -129,7 +129,7 @@ namespace ComicsStoreBack
                         {
                             Id = reader.GetInt32(0),
                             Name = reader.GetString(1),
-                            DateOfBirth = reader.GetInt32(3),
+                            DateOfBirth = reader.GetInt32(2),
                         };
                     }
                 }
@@ -171,8 +171,8 @@ namespace ComicsStoreBack
                             Id = reader.GetInt32(0),
                             Name = reader.GetString(1),
                             Description = reader.GetString(2),
-                            Year = reader.GetInt32(3),
-                            Price = reader.GetInt32(4),
+                            Year = reader.GetFloat(3),
+                            Price = reader.GetFloat(4),
                             Publisher = reader.GetString(5)
                         };
                     }
@@ -215,8 +215,8 @@ namespace ComicsStoreBack
                             Id = reader.GetInt32(0),
                             Name = reader.GetString(1),
                             Description = reader.GetString(2),
-                            Year = reader.GetInt32(3),
-                            Price = reader.GetInt32(4),
+                            Year = reader.GetFloat(3),
+                            Price = reader.GetFloat(4),
                             Publisher = reader.GetString(5)
                         });
                     }

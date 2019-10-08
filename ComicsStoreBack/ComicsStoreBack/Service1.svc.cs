@@ -15,6 +15,11 @@ namespace ComicsStoreBack
     {
         DatabaseHelper dbHelper = new DatabaseHelper();
 
+        public List<Author> GetAllAuthors()
+        {
+            return dbHelper.SelectAllAuthors();
+        }
+
         public List<Comics> GetAllComics()
         {
             return dbHelper.SelectAllComics();

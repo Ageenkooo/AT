@@ -13,6 +13,8 @@ namespace ComicsStoreBack
     [ServiceContract]
     public interface IService1
     {
+        [OperationContract]
+        List<Author> GetAllAuthors();
 
         [OperationContract]
         List<Comics> GetAllComics();

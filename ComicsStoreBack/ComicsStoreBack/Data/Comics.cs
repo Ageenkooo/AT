@@ -19,10 +19,10 @@ namespace ComicsStoreBack.Data
         public string Description { get; set; }
 
         [DataMember]
-        public int Year { get; set; }
+        public float Year { get; set; }
 
         [DataMember]
-        public int Price { get; set; }
+        public float Price { get; set; }
 
         [DataMember]
         public string Publisher { get; set; }
