@@ -1,0 +1,11 @@
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\agent\source\repos\Rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\agent\source\repos\Rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\agent\source\repos\Rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\agent\source\repos\Rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\agent\source\repos\Rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\agent\source\repos\Rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
